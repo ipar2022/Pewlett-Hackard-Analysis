@@ -1,10 +1,11 @@
-## Pewlett-Hackard-Analysis
+# Pewlett-Hackard-Analysis
 
------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
  
- **Overview of the analysis** 
-A company wants to determine the number of retiring employees based on their company title and  identify employees who are eligible to participate in a mentorship program. Queries were used to analyze CSV files provided by the company. Once the data was sorted new tables were created through joins. The new tables created provided a list of retiring employees and mentorship eligible personnel.
--------------------------------------------------------------------------------------------------
+**Overview of the analysis**
+ 
+ A company wants to determine the number of retiring employees based on their company title and  identify employees who are eligible to participate in a mentorship program. Queries were used to analyze CSV files provided by the company. Once the data was sorted new tables were created through joins. The new tables created provided a list of retiring employees and mentorship eligible personnel.
+--------------------------------------------------------------------------------------------------
 **Results**
     Provide a bulleted list with four major points from the two analysis deliverables use images as support where needed.
     
