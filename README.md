@@ -7,6 +7,7 @@ A company wants to determine the number of retiring employees based on their com
 -------------------------------------------------------------------------------------------------
 **Results**
     Provide a bulleted list with four major points from the two analysis deliverables use images as support where needed.
+    
 -
 
 -
@@ -14,6 +15,7 @@ A company wants to determine the number of retiring employees based on their com
 -
 
 -
+
 
 
 
