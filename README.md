@@ -22,6 +22,7 @@
 
 --------------------------------------------------------------------------------------------------
 **Summary**
+
 Provide high level responses for two questions then provide two additional queries or tables that may provide more insight into the upcoming silver tsunami.
 
 Question One. How many roles will need to be filled as the silver tsunami begins to make an impact?
