@@ -34,7 +34,7 @@ Manager 2
 
 
 
--The two images provided from the SQL table when comapred reveal the mentorship program has a deficit of mentorship eligible staff.
+- The two images provided from the SQL table when comapred reveal the mentorship program has a deficit of mentorship eligible staff.
 Retirement ready employees total 72,458
 Mentorship eligible staff total 1,549
 
