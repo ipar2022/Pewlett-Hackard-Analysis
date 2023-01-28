@@ -9,7 +9,9 @@
 **Results**
     Provide a bulleted list with four major points from the two analysis deliverables use images as support where needed.
     
--
+- There will be many staff that will be retiring soon. 
+Senior Engineer 25,916 and Senior Staff 24,926. 
+
 ![1 retiring titles](https://user-images.githubusercontent.com/113808332/215241815-fd29eb37-7f3f-4251-99dd-22f79f7143aa.png)
 
 
