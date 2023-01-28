@@ -18,8 +18,7 @@ Senior Engineer 25,916 and Senior Staff 24,926
 ![1 retiring titles](https://user-images.githubusercontent.com/113808332/215241815-fd29eb37-7f3f-4251-99dd-22f79f7143aa.png)
 
 
--
-The remaining staff volume ready for retirement is a considerable number. 
+- The remaining staff volume ready for retirement is a considerable number. 
 Engineer 9,285
 Staff 7,636
 Technique Leader 3,603
