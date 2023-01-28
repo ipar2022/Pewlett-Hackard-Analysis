@@ -32,10 +32,15 @@ Manager 2
 
 
 
--
+
 
 -
 ![2 mentor title count ](https://user-images.githubusercontent.com/113808332/215241827-90d402e6-4ca3-42f9-9a7d-5fff898ef521.png)
+
+The two images provide from the SQL table reveals the mentorship program has a deficit of mentorship eligible staff.
+Retirement ready employees total 72,458
+Mentorship eligible staff total 1,549
+
 
 
 
