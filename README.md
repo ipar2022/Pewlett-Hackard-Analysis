@@ -4,7 +4,7 @@
  
 **Overview of the analysis**
  
- A company wants to determine the number of retiring employees based on their company title and  identify employees who are eligible to participate in a mentorship program. Queries were used to analyze CSV files provided by the company. Once the data was sorted new tables were created through joins. The new tables created provided a list of retiring employees and mentorship eligible personnel.
+ A company wants to determine the number of retiring employees based on their company title and  identify employees who are eligible to participate in a mentorship program. Queries were used to analyze CSV files provided by the company. Once the data was sorted new tables were created through joins. The new tables created provide a list of retiring employees and mentorship eligible personnel.
 --------------------------------------------------------------------------------------------------
 **Results**
     Provide a bulleted list with four major points from the two analysis deliverables use images as support where needed.
@@ -34,12 +34,13 @@ Manager 2
 
 
 
--
-![2 mentor title count ](https://user-images.githubusercontent.com/113808332/215241827-90d402e6-4ca3-42f9-9a7d-5fff898ef521.png)
-
-The two images provide from the SQL table reveals the mentorship program has a deficit of mentorship eligible staff.
+-The two images provided from the SQL table when comapred reveal the mentorship program has a deficit of mentorship eligible staff.
 Retirement ready employees total 72,458
 Mentorship eligible staff total 1,549
+
+![2 mentor title count ](https://user-images.githubusercontent.com/113808332/215241827-90d402e6-4ca3-42f9-9a7d-5fff898ef521.png)
+
+
 
 
 
