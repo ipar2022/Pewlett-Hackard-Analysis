@@ -96,9 +96,9 @@ INTO mentor_title_count
 FROM mentorship_eligibility 
 GROUP BY title;
 
---SELECT * FROM mentor_title_count
---SELECT * FROM retiring_titles
---SELECT * FROM retiring_count
+SELECT * FROM mentor_title_count
+SELECT * FROM retiring_titles
+
 
 
 --SELECT mentor_title_count,
@@ -107,8 +107,8 @@ GROUP BY title;
 --INTO comparision_table
 --FROM retiring_titles as rt
 --LEFT JOIN mentor_title_count as mtc
---on(retiring_titles = mentoree_count);
+--on(retiring_titles = );
 
 --SELECT title, mentoree_count, retire_count,
---ROUND (mentoree_count * 100.0 / retire_count,1) as Percent
---FROM comparision_table;
+--ROUND ( * 100.0 / retire_count,1) as Percent
+--FROM ;
