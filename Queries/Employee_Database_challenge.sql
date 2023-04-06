@@ -95,10 +95,22 @@ COUNT(title)
 INTO mentor_title_count
 FROM mentorship_eligibility 
 GROUP BY title;
+ORDER BY mentorship_eligibility.count DESC;
 
 SELECT * FROM mentor_title_count
 SELECT * FROM retiring_titles
 
+select *from unique_titles
+SELECT * FROM mentorship_eligibility
+
+SELECT DISTINCT ON
+mentorship_eligibility,
+count(retiring_titles),
+(retiring_titles)
+INTO comparision_table
+FROM retiring_titles as rt
+LEFT JOIN mentorship_eligibility as mtc
+on(retiring_titles),.count ASC;
 
 
 --SELECT mentor_title_count,
